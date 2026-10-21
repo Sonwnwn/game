@@ -1,5 +1,5 @@
 # Филиппова Ксения 2-мд-20
-# Minion Banana Run — практическая работа №5
+# Minion Banana Run 
 
 ## Запуск
 Откройте папку `minion-banana-run` в VS Code и запустите `index.html` через Live Server. Не открывайте через `file://` — используются ES-модули.
